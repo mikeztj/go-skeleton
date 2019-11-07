@@ -1,0 +1,4 @@
+server:
+    port: ":8888"
+database:
+    master: "root:@tcp(localhost:3306)/test"
