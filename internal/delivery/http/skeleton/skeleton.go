@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	skeletonEntity "github.com/vilbert/ProdukOnline/internal/entity/skeleton"
-	"github.com/vilbert/ProdukOnline/pkg/response"
+	skeletonEntity "github.com/vilbert/go-skeleton/internal/entity/skeleton"
+	"github.com/vilbert/go-skeleton/pkg/response"
 )
 
 // ISkeletonSvc is an interface to Skeleton Service

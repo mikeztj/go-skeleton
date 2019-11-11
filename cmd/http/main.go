@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/vilbert/ProdukOnline/internal/boot"
+	"github.com/vilbert/go-skeleton/internal/boot"
 )
 
 func main() {
